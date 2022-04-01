@@ -41,7 +41,7 @@
     "@opentelemetry/api": "^1.0.2",
     "@opentelemetry/api-metrics": "^0.24.0",
     "@opentelemetry/metrics": "^0.24.0",
-    "opentelemetry-node-metrics": "^1.0.2",
+    "opentelemetry-node-metrics": "^2.0.0",
     "response-time": "^2.3.2"
   },
   "devDependencies": {
